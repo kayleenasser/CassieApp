@@ -1,4 +1,4 @@
-# ClimbingTrackerApp
+# Cassie - Climb Tracking App
 Android app to track climbing progression with route images and grade conversions.
 ### CCC Boulder Conversions
 | C Grade  | V Grade |
