@@ -7,8 +7,8 @@ Android app to track climbing progression with route images and grade conversion
 | C2  |  VB+ |
 | C3  |  V0 - V1  |
 | C4  |  V1 - V3  |
-| C5  |  V3 - V 5 |
-| C6  |  V5 - V 7 |
+| C5  |  V3 - V5 |
+| C6  |  V5 - V7 |
 | C7  |  V7 - V9 |
 | C8  |  V9 - V11+  |
 
