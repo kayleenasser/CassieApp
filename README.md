@@ -1,7 +1,7 @@
 # ClimbingTrackerApp
 Android app to track climbing progression with route images and grade conversions.
 
- ##Navigation Template
+ ## Navigation Template
 
 <p>
   <!-- iOS -->
